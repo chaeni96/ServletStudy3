@@ -1,1 +1,31 @@
 @charset "UTF-8";
+
+#list{
+	width: 800px;
+	height: 500px;
+	text-align: center;
+	
+}
+
+.head{
+	width: 100px;
+	background-color: lightgrey;
+	border: #343464 2px solid;
+	
+}
+
+.th1{
+	font-size: 17px;
+	color: #0088d0;
+	font-weight: bolder;
+}
+
+.th2{
+	font-weight: bolder;
+}
+
+.body{
+	border-top: 2px #343465 solid;
+	border-bottom: 2px #343465 solid;
+	
+}
