@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link href="./css/buttons.css" rel="stylesheet">
+</head>
+<body>
+	<!-- 버튼 4개 만들기 -->
+	<div>
+		<button class="btn_btn1">BUTTON</button>
+	</div>
+	
+	<div>
+		<button class="btn_btn2">BUTTON</button>
+	</div>
+	
+	<div>
+		<button class="btn_btn3">BUTTON</button>
+	</div>
+	
+	<div>
+		<button class="btn_btn4">BUTTON</button>
+	</div>
+	
+</body>
+</html>
