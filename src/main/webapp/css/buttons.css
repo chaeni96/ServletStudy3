@@ -14,7 +14,7 @@ div{
 	border: #92A8D1 6px solid;
 	border-radius: 50px;
 	margin-right: 100px;
-	cursor: auto; /* 커서모양 */
+	cursor: pointer; /* 커서모양 */
 }
 
 /* 그라데이션 버튼 */
@@ -27,7 +27,7 @@ div{
     height: 50px;
     border-radius: 30px;
     background: linear-gradient(to right, #3c3e70 , #ffe05d ); 
-	cursor: pointer;
+	
 }
 
 /* 버튼 그림자 생성 */

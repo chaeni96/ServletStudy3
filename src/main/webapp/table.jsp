@@ -25,7 +25,7 @@
 			</thead>
 			
 			<tbody class="body">
-				<tr>
+				<tr >
 					<td class="th1">공지</td>
 					<td class="th2">[공지]관련 안내</td>
 					<td >관리자</td>
