@@ -22,22 +22,18 @@ div{
  	
     margin-top: 20px;
     margin-bottom: 20px;
-    
     width: 100px;
     height: 50px;
     border-radius: 30px;
     background: linear-gradient(to right, #3c3e70 , #ffe05d ); 
-	
 }
 
 /* 버튼 그림자 생성 */
 .btn3{
 	
 	margin-bottom: 20px;
-	
 	width: 100px;
     height: 50px;
-    
 	display:inline-block;
 	box-shadow: 3px 4px 0px 0px #0054a8;
 	background-color:#79bbff;
