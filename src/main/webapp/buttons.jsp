@@ -10,19 +10,19 @@
 <body>
 	<!-- 버튼 4개 만들기 -->
 	<div>
-		<button class="btn_btn1">BUTTON</button>
+		<button class="btn btn1">BUTTON</button>
 	</div>
 	
 	<div>
-		<button class="btn_btn2">BUTTON</button>
+		<button class="btn btn2">BUTTON</button>
 	</div>
 	
 	<div>
-		<button class="btn_btn3">BUTTON</button>
+		<button class="btn btn3">BUTTON</button>
 	</div>
 	
 	<div>
-		<button class="btn_btn4">BUTTON</button>
+		<button class="btn btn4">BUTTON</button>
 	</div>
 	
 </body>
